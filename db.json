@@ -1,0 +1,48 @@
+{
+  "drugs": [
+    {
+      "drugImages": "",
+      "drugName": "",
+      "type": "",
+      "responsibleParty": "",
+      "responsiblePartyCountry": "",
+      "manufacturer": "",
+      "manufacturingCountry": "",
+      "cargoShippingTerms": "",
+      "priceForeign": "",
+      "currencyForeign": "USD",
+      "registrationNumber": "",
+      "registrationDate": "",
+      "reviewDate": "",
+      "mohCode": "",
+      "ingredientsAndstrength": "",
+      "form": "",
+      "primaryContainerPackage": "",
+      "agent": "",
+      "typeOfProduct": "",
+      "id": 1
+    },
+    {
+      "drugImages": "",
+      "drugName": "",
+      "type": "",
+      "responsibleParty": "",
+      "responsiblePartyCountry": "",
+      "manufacturer": "",
+      "manufacturingCountry": "",
+      "cargoShippingTerms": "",
+      "priceForeign": "",
+      "currencyForeign": "USD",
+      "registrationNumber": "",
+      "registrationDate": "",
+      "reviewDate": "",
+      "mohCode": "",
+      "ingredientsAndstrength": "",
+      "form": "",
+      "primaryContainerPackage": "",
+      "agent": "",
+      "typeOfProduct": "",
+      "id": 2
+    }
+  ]
+}
